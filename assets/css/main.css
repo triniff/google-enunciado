@@ -5835,4 +5835,16 @@ header {
     font-size: 18px;
     padding: 10px 0; }
 
+.newsfeed h1 {
+  font-size: 30px;
+  font-weight: 500;
+  padding-top: 10px; }
+.newsfeed h4 {
+  padding: 15px 0;
+  font-weight: 500; }
+.newsfeed .text-esp {
+  font-family: "Zilla Slab", serif;
+  font-size: 18px;
+  padding: 10px 0; }
+
 /*# sourceMappingURL=main.css.map */
